@@ -1,9 +1,0 @@
-Hello
-its
-first
-text
-Its
-second
-text
-third
-party
